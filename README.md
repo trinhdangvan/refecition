@@ -1,4 +1,4 @@
-##Refecition 2/4/2021
+## Refecition 6/4/2021
 #### 1.Method overriding.
 >- Method Overriding (ghi đè phương thức) là cơ chế cho phép lớp con định nghĩa lại các phương thức đã được định nghĩa trước đó ở lớp cha.
 >- Phương thức override ở lớp con có cùng tên, cùng danh sách tham số và kiểu dữ liệu trả về so với phương thức ở lớp cha.
